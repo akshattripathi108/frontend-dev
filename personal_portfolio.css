@@ -1,0 +1,3 @@
+/* Portfolio CSS */
+header {background: linear-gradient(90deg,#f8f9fa,#ffffff);}
+img.rounded-circle {border:4px solid #fff; box-shadow:0 3px 10px rgba(0,0,0,0.08);}

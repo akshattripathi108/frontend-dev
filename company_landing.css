@@ -1,0 +1,4 @@
+/* Company Landing CSS - keep it simple and modern */
+body {font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
+header .navbar-brand {letter-spacing: .6px;}
+.hero-img {max-width:100%;}

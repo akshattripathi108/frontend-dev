@@ -1,0 +1,4 @@
+/* Blog theme overrides */
+:root { --bs-primary: #6f42c1; }
+body {font-family: 'Inter', system-ui, -apple-system;}
+.card {border-radius:12px;}
